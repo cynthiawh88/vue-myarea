@@ -1,8 +1,8 @@
 {
-  "name": "vue-myarea",
-  "version": "1.0.7",
+  "name": "vue-cities",
+  "version": "1.0.0",
   "description": "地区选择器",
-  "author": "huangui9@qq.com",
+  "author": "847012074@qq.com",
   "main": "./area.vue",
   "scripts": {
     "vue-watch": "webpack --watch"
@@ -33,6 +33,6 @@
     "last 2 versions",
     "not ie <= 8"
   ],
-  "_from": "vue-myarea@1.0.7",
-  "_resolved": "http://registry.npm.taobao.org/vue-myarea/download/vue-myarea-1.0.7.tgz"
+  "_from": "vue-cities@1.0.0",
+  "_resolved": "https://github.com/cynthiawh88/vue-myarea.git"
 }
